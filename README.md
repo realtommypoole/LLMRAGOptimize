@@ -10,3 +10,10 @@
 **Project Outline:**
 
 <img width="1720" height="2440" alt="project_outline_color" src="https://github.com/user-attachments/assets/151e46ec-b4b8-4ee8-80df-2494543f2440" />
+
+**Results & Key Findings:**
+
+
+**Citation:**
+Russell, S. & Norvig, P. (2010). Artificial Intelligence: A Modern Approach (3rd ed.)
+Evaluation metrics aligned to Microsoft Azure AI Foundry standards.
