@@ -12,7 +12,10 @@
 <img width="1720" height="2440" alt="project_outline_color" src="https://github.com/user-attachments/assets/151e46ec-b4b8-4ee8-80df-2494543f2440" />
 
 **Results & Key Findings:**
+
+
 <img width="321" height="300" alt="image" src="https://github.com/user-attachments/assets/6f313713-e69e-4549-a107-7cde1ac22390" />
+
 
 The dataset size effect did not follow the hypothesized monotonic pattern. Averaging across architectures, the 32-pair split produced the highest mean overall score (3.353), outperforming the 64-pair (3.253), 256-pair (3.258), and 8-pair (3.294) splits. This inverted-U pattern, as seen in Figure 4 below, suggests an optimal range near 32 pairs for this corpus and architecture class, with larger datasets providing diminishing or negative returns.
 
